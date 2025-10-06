@@ -30,6 +30,7 @@
 ---
 
 ## Formato de Versionamento
+## Política de Skew de Versão
 
 
 
