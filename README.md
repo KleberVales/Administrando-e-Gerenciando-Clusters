@@ -25,3 +25,4 @@
 
 ## Componentes Principais
 ## Como Funciona
+## Configuração
