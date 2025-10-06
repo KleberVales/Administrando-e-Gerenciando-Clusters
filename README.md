@@ -8,3 +8,4 @@
 
 ## Personalização do Script de Inicialização
 ## Métodos de Customização
+## Configurando SELinux com Cloud-init
