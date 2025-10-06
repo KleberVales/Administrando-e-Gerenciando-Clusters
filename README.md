@@ -39,6 +39,7 @@
 ## CoreDNS no Cluster
 ## Personalizando o CoreDNS
 ## Aplicando e Validando
+## External DNS
 
 
 
