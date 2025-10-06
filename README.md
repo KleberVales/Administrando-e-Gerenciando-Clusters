@@ -14,3 +14,7 @@
 
 ## Integração com Add-ons de Autoscaling
 ## Características principais
+
+---
+
+## Fonte de Métricas
