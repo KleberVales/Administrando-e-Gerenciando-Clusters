@@ -26,3 +26,10 @@
 ## Componentes Principais
 ## Como Funciona
 ## Configuração
+
+---
+
+## Formato de Versionamento
+
+
+
