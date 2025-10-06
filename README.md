@@ -9,3 +9,7 @@
 ## Personalização do Script de Inicialização
 ## Métodos de Customização
 ## Configurando SELinux com Cloud-init
+
+---
+
+## Integração com Add-ons de Autoscaling
