@@ -7,3 +7,4 @@
 ---
 
 ## Personalização do Script de Inicialização
+## Métodos de Customização
