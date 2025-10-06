@@ -13,3 +13,4 @@
 ---
 
 ## Integração com Add-ons de Autoscaling
+## Características principais
