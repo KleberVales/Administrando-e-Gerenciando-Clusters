@@ -34,5 +34,9 @@
 ## Atualizando os Nós de Control Plane
 ## Atualizando os Nós de Trabalho
 
+--- 
+
+## CoreDNS no Cluster
+
 
 
