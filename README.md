@@ -24,3 +24,4 @@
 ---
 
 ## Componentes Principais
+## Como Funciona
