@@ -20,3 +20,7 @@
 ## Fonte de Métricas
 ## Recursos e Funcionalidades
 ## Flexibilidade
+
+---
+
+## Componentes Principais
